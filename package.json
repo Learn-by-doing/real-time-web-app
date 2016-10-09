@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Learn-by-doing/html-forms-and-ajax.git"
+    "url": "git+https://github.com/Learn-by-doing/real-time-web-app.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Learn-by-doing/html-forms-and-ajax/issues"
+    "url": "https://github.com/Learn-by-doing/real-time-web-app/issues"
   },
-  "homepage": "https://github.com/Learn-by-doing/html-forms-and-ajax#readme",
+  "homepage": "https://github.com/Learn-by-doing/real-time-web-app#readme",
   "dependencies": {
     "express": "4.14.0",
     "primus": "5.2.2",
